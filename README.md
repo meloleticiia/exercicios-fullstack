@@ -1,6 +1,6 @@
 # exercicios-fullstack
 
-# Instruções para visulizar e executar os exercícios propostos.
+# Instruções para visualizar e executar os exercícios propostos.
 
 ## ✅ Pré-requisitos
 
@@ -13,7 +13,7 @@ Para confirmar que está instalado corretamente, execute os comandos abaixo no t
 node -v
 npm -v
 
-📁 Como baixar o projeto
+📁 Como baixar o projeto:
 
 git clone https://github.com/meloleticia/exercicios-fullstack.git
 cd exercicios-fullstack
